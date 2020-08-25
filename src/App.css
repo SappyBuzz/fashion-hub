@@ -10,3 +10,7 @@ a{
 .app-container{
   padding: 0 80px;
 }
+
+* {
+  box-sizing: border-box;
+}
